@@ -885,15 +885,14 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
 Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration, com.hk.roothide.cc, com.hk.rootless.cc
 Filename: ./debs/com.vtec.ccless_2.1.0.1_iphoneos-arm64e.deb
-Size: 523320
-MD5sum: 5f04545266d93005799979c1bc1f93ac
-SHA1: d72ee1e4a753520fcd982024cf95d804927297b6
-SHA256: c0bab217aaf205990cdd3eb18aa4accde8be4a510ea74c202a5e3078ed02966c
+Size: 523704
+MD5sum: 7f01ac613cb7e4ec6f09295f9b68437e
+SHA1: fee520259bcc6bd2d8cf298c4182e4eef64588b2
+SHA256: 2b204664d23ee210c6ab39f4d4870ccfddfafb0d6d4f3c10d265bfb7e91228b2
 Section: Tweaks
-Description: 超级控制中心模块集合！在刀刀原版基础上合并了电池状态模块。仅作个人备份！
-Tag: cydia::commercial
+Description: 超级控制中心模块集合，在刀刀版本基础上合并了电池状态模块，个人备份自用！
 Author: 妖刀
-Icon: https://s1.imagehub.cc/images/2026/08/15/9f3568171bc962d79407de497f54c0ba.png
+Icon: https://s1.imagehub.cc/images/2026/08/13/82899a74c4730bb3ebb34f2a85f338fe.png
 Name: CCLess++(RootHide)
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ccless/js.json
 
